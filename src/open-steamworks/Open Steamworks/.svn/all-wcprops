@@ -1,0 +1,1235 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/src/open-steamworks/Open%20Steamworks
+END
+ESteamPaymentCardType.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamPaymentCardType.h
+END
+ISteamUser008.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser008.h
+END
+IClientAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientAudio.h
+END
+ISteamClient009.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient009.h
+END
+TSteamPrepurchaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamPrepurchaseInfo.h
+END
+ISteamFriends004.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends004.h
+END
+ISteamUserStats004.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats004.h
+END
+ISteamFriends008.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends008.h
+END
+ISteamGameServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer002.h
+END
+GameCoordinatorCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/GameCoordinatorCommon.h
+END
+UserCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/UserCommon.h
+END
+ClientCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ClientCommon.h
+END
+Win32Library.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Win32Library.h
+END
+ISteamUserStats008.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats008.h
+END
+IClientRemoteStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientRemoteStorage.h
+END
+ISteamGameServer006.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer006.h
+END
+RemoteStorageCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/RemoteStorageCommon.h
+END
+TSteamGlobalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamGlobalUserID.h
+END
+NetworkingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/NetworkingCommon.h
+END
+TSteamSubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSubscription.h
+END
+ISteamClient010.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient010.h
+END
+ISteamGameServerStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServerStats001.h
+END
+SteamAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/SteamAPI.h
+END
+IClientUserStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientUserStats.h
+END
+ISteamRemoteStorage002.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamRemoteStorage002.h
+END
+ISteamUser013.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser013.h
+END
+ISteamMatchmaking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking001.h
+END
+IClientGameServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientGameServer.h
+END
+IClientUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientUtils.h
+END
+Steamclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Steamclient.h
+END
+GameServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/GameServerCommon.h
+END
+UtilsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/UtilsCommon.h
+END
+ISteamMatchmaking005.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking005.h
+END
+ISteamNetworking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamNetworking001.h
+END
+AppsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/AppsCommon.h
+END
+ISteamGameStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameStats001.h
+END
+TSteamExternalBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamExternalBillingInfo.h
+END
+TSteamAppStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamAppStats.h
+END
+ISteamNetworking005.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamNetworking005.h
+END
+TSteamSubscriptionStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSubscriptionStats.h
+END
+EChatMemberStateChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EChatMemberStateChange.h
+END
+ESteamFindFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamFindFilter.h
+END
+ISteamUtils002.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUtils002.h
+END
+GameServerStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/GameServerStatsCommon.h
+END
+Interface_OSW.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Interface_OSW.h
+END
+ISteamApps004.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamApps004.h
+END
+ISteamMasterServerUpdater001.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMasterServerUpdater001.h
+END
+MatchmakingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/MatchmakingCommon.h
+END
+Open Steamworks.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Open%20Steamworks.vcproj
+END
+TSteamSplitLocalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSplitLocalUserID.h
+END
+ISteamUserItems001.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserItems001.h
+END
+BridgeCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/BridgeCommon.h
+END
+ISteamUser005.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser005.h
+END
+ISteamClient006.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient006.h
+END
+ISteam006.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam006.h
+END
+ESteamBufferMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamBufferMethod.h
+END
+ContentServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ContentServerCommon.h
+END
+ISteamUser009.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser009.h
+END
+GameServerItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/GameServerItemsCommon.h
+END
+ISteamFriends001.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends001.h
+END
+gameserveritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/gameserveritem.h
+END
+ISteamUserStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats001.h
+END
+ISteamFriends005.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends005.h
+END
+ISteamUserStats005.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats005.h
+END
+IClientGameCoordinator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientGameCoordinator.h
+END
+ISteamGameServer003.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer003.h
+END
+ISteamFriends009.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends009.h
+END
+ISteamGameServerItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServerItems002.h
+END
+ESteamSeekMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamSeekMethod.h
+END
+ESteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamError.h
+END
+ISteamUserStats009.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats009.h
+END
+ISteamGameServer007.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer007.h
+END
+SteamSalt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/SteamSalt.h
+END
+ISteamUser010.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser010.h
+END
+ISteam2Bridge001.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam2Bridge001.h
+END
+ISteamClient011.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient011.h
+END
+TSteamOfflineStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamOfflineStatus.h
+END
+EUniverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EUniverse.h
+END
+MatchMakingKeyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/MatchMakingKeyValuePair.h
+END
+ISteamRemoteStorage003.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamRemoteStorage003.h
+END
+ISteamUser014.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser014.h
+END
+IClientScreenshots.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientScreenshots.h
+END
+ISteamMatchmaking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking002.h
+END
+Steam.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Steam.h
+END
+ScreenshotsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ScreenshotsCommon.h
+END
+ISteamNetworking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamNetworking002.h
+END
+ISteamMatchmaking006.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking006.h
+END
+ISteamUserStats010.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats010.h
+END
+ISteamMatchmakingServers001.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmakingServers001.h
+END
+TSteamAppLaunchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamAppLaunchOption.h
+END
+ISteamScreenshots001.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamScreenshots001.h
+END
+ISteamUtils003.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUtils003.h
+END
+ISteamApps001.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamApps001.h
+END
+SteamclientAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/SteamclientAPI.h
+END
+ESteamSubscriptionBillingInfoType.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamSubscriptionBillingInfoType.h
+END
+FriendsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/FriendsCommon.h
+END
+ISteamBilling001.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamBilling001.h
+END
+ISteamUserItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserItems002.h
+END
+ISteam003.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam003.h
+END
+ISteamUser006.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser006.h
+END
+TSteamDiscountQualifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamDiscountQualifier.h
+END
+ISteamClient007.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient007.h
+END
+IClientContentServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientContentServer.h
+END
+ELobbyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ELobbyType.h
+END
+IClientMasterServerUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientMasterServerUpdater.h
+END
+ISteamFriends002.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends002.h
+END
+ENotificationPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ENotificationPosition.h
+END
+ISteamUserStats002.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats002.h
+END
+ISteamFriends006.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends006.h
+END
+IClientUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientUser.h
+END
+ISteamUserStats006.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats006.h
+END
+ISteamGameServer004.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer004.h
+END
+ESteamSubscriptionStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamSubscriptionStatus.h
+END
+ISteamGameServerItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServerItems003.h
+END
+ISteamGameServer008.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer008.h
+END
+SteamTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/src/open-steamworks/Open%20Steamworks/SteamTypes.h
+END
+TSteamApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamApp.h
+END
+CCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/CCallback.h
+END
+TSteamPaymentCardInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamPaymentCardInfo.h
+END
+ISteamUser011.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser011.h
+END
+ISteam2Bridge002.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam2Bridge002.h
+END
+MatchmakingServersCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/MatchmakingServersCommon.h
+END
+ESteamNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamNotify.h
+END
+ISteamUser015.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser015.h
+END
+ISteamRemoteStorage004.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamRemoteStorage004.h
+END
+ISteamAppTicket001.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamAppTicket001.h
+END
+ISteamMatchmaking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking003.h
+END
+ISteamMatchmaking007.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking007.h
+END
+ISteamNetworking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamNetworking003.h
+END
+TSteamSubscriptionReceipt.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSubscriptionReceipt.h
+END
+TSteamProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamProgress.h
+END
+ISteamMatchmakingServers002.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmakingServers002.h
+END
+ISteamContentServer001.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamContentServer001.h
+END
+ISteamUtils004.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUtils004.h
+END
+IClientHTTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientHTTP.h
+END
+ISteamApps002.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamApps002.h
+END
+ISteamGameCoordinator001.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameCoordinator001.h
+END
+ISteamHTTP001.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamHTTP001.h
+END
+servernetadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/servernetadr.h
+END
+ISteamBilling002.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamBilling002.h
+END
+ISteam004.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam004.h
+END
+ISteamUserItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserItems003.h
+END
+ISteamUser007.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser007.h
+END
+ISteamClient008.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamClient008.h
+END
+TSteamAppDependencyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamAppDependencyInfo.h
+END
+CSteamAPIContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/CSteamAPIContext.h
+END
+TSteamElemInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamElemInfo.h
+END
+IClientEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientEngine.h
+END
+FriendGameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/FriendGameInfo.h
+END
+TSteamPaymentCardReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamPaymentCardReceiptInfo.h
+END
+MasterServerUpdaterCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/MasterServerUpdaterCommon.h
+END
+EPersonalQuestion.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EPersonalQuestion.h
+END
+ISteamFriends003.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends003.h
+END
+IClientAppManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientAppManager.h
+END
+ISteamUserStats003.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats003.h
+END
+ISteamFriends007.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamFriends007.h
+END
+POSIXLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/POSIXLibrary.h
+END
+ISteamUserStats007.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserStats007.h
+END
+ISteamGameServer005.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer005.h
+END
+ESteamAppUpdateStatsQueryType.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamAppUpdateStatsQueryType.h
+END
+CSteamID.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/CSteamID.h
+END
+ISteamGameServerItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServerItems004.h
+END
+ISteamGameServer009.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer009.h
+END
+AppTicketCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/AppTicketCommon.h
+END
+IClientNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientNetworking.h
+END
+IClientGameStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientGameStats.h
+END
+GameStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/GameStatsCommon.h
+END
+ISteamRemoteStorage001.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamRemoteStorage001.h
+END
+TSteamAppVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamAppVersion.h
+END
+ISteamUser012.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser012.h
+END
+IClientMatchmakingServers.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientMatchmakingServers.h
+END
+UserStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/UserStatsCommon.h
+END
+TSteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamError.h
+END
+ISteamUser016.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser016.h
+END
+ISteamMatchmaking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking004.h
+END
+TSteamSubscriptionDiscount.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSubscriptionDiscount.h
+END
+IClientApps.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientApps.h
+END
+ISteamMatchmaking008.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamMatchmaking008.h
+END
+ISteamNetworking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamNetworking004.h
+END
+TSteamUpdateStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamUpdateStats.h
+END
+TSteamSubscriptionBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamSubscriptionBillingInfo.h
+END
+EServerMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EServerMode.h
+END
+EResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EResult.h
+END
+ISteamUtils001.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUtils001.h
+END
+ISteamGameServer010.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamGameServer010.h
+END
+ISteamContentServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamContentServer002.h
+END
+IClientGameServerStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientGameServerStats.h
+END
+TSteamPrepurchaseReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/TSteamPrepurchaseReceiptInfo.h
+END
+ISteamUtils005.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUtils005.h
+END
+IClientBilling.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientBilling.h
+END
+HTTPCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/HTTPCommon.h
+END
+CGameID.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/CGameID.h
+END
+UserItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/UserItemsCommon.h
+END
+BillingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/BillingCommon.h
+END
+ISteamApps003.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamApps003.h
+END
+IClientConfigStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientConfigStore.h
+END
+IClientDepotBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientDepotBuilder.h
+END
+IClientMatchmaking.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientMatchmaking.h
+END
+Steamworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/Steamworks.h
+END
+IClientFriends.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/IClientFriends.h
+END
+EAccountType.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/EAccountType.h
+END
+ISteamUser004.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUser004.h
+END
+ESteamServerType.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ESteamServerType.h
+END
+ISteamUserItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteamUserItems004.h
+END
+ISteam005.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/open-steamworks/Open%20Steamworks/ISteam005.h
+END

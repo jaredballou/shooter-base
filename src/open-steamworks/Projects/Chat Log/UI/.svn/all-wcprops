@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI
+END
+SettingsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/SettingsForm.Designer.cs
+END
+SettingsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/SettingsForm.cs
+END
+Notification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/Notification.cs
+END
+LinkIDForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/LinkIDForm.resx
+END
+PreviewTextBox.resx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/PreviewTextBox.resx
+END
+BrowseTextBox.resx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/BrowseTextBox.resx
+END
+LinkIDForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/LinkIDForm.Designer.cs
+END
+LinkIDForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/LinkIDForm.cs
+END
+BrowseTextBox.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/BrowseTextBox.Designer.cs
+END
+PreviewTextBox.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/PreviewTextBox.Designer.cs
+END
+PreviewTextBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/PreviewTextBox.cs
+END
+BrowseTextBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/BrowseTextBox.cs
+END
+SettingsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/SettingsForm.resx
+END
+Notification.resx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/open-steamworks/Projects/Chat%20Log/UI/Notification.resx
+END
