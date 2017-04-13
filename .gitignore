@@ -1,1 +1,5 @@
 settings.local.cmd
+game/*/bin/*
+!game/*/bin/lua51.dll
+*.opensdf
+*.sdf

@@ -7,9 +7,7 @@
 #sudo tar xvf steam-runtime-sdk_latest.tar.xz
 #sudo mv steam-runtime-sdk_2013-09-05 steam-runtime
 
-cd source-sdk-2013/sp/src
-./createallprojects
-./creategameprojects
-cd ../../mp/src
+
+cd src
 ./createallprojects
 ./creategameprojects
